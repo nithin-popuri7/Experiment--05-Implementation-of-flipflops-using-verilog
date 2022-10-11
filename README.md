@@ -165,10 +165,10 @@ endmodule
 
 
 ### RTL LOGIC FOR FLIPFLOPS 
-![github.logo](rtl1.png)
-![github.logo](rtl2.png)
-![github.logo](rtl3.png)
-![github.logo](rtl4png)
+![github.logo](Rtl1.png)
+![github.logo](Rtl2.png)
+![github.logo](Rtl3.png)
+![github.logo](Rtl4.png)
 
 
 
