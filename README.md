@@ -124,7 +124,7 @@ nand(Q,X,Qbar);
 nand(Qbar,Y,Q);
 endmodule
 ~~~
-Program 2
+## Program 2
 ~~~
 module df(D,clock,Q,Qbar);
 input D,clock;
@@ -137,7 +137,7 @@ nand(Q,X,Qbar);
 nand(Qbar,Y,Q);
 endmodule
 ~~~
-Program 3
+## Program 3
 ~~~
 module exp5(J,K,clock,Q,Qbar);
 input J,K,clock;
@@ -149,7 +149,7 @@ nand(Q,P,Qbar);
 nand(Qbar,S,Q);
 endmodule
 ~~~
-Program 4
+## Program 4
 ~~~
 module tb(T,clock,Q,Qbar);
 input T,clock;
@@ -165,7 +165,10 @@ endmodule
 
 
 ### RTL LOGIC FOR FLIPFLOPS 
-
+![github.logo](rtl1.png)
+![github.logo](rtl2.png)
+![github.logo](rtl3.png)
+![github.logo](rtl4png)
 
 
 
