@@ -179,6 +179,10 @@ endmodule
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
+![td1](https://user-images.githubusercontent.com/94154780/195100112-8f4d156a-250b-43f0-a642-dd165ca75d1e.jpg)
+![td2](https://user-images.githubusercontent.com/94154780/195100132-e223fdbf-ab15-40e1-8eb0-63351dd7c7eb.jpg)
+![td3](https://user-images.githubusercontent.com/94154780/195100732-edbbf199-308a-4588-889c-371e08357fe1.jpg)
+![td4](https://user-images.githubusercontent.com/94154780/195100747-89ca02bc-f4b7-4194-9135-aed033c75450.jpg)
 
 
 
@@ -187,3 +191,4 @@ endmodule
 
 
 ### RESULTS 
+Thus implementation of SR,JK,D and T flipflops using nand gates are done sucessfully.
